@@ -16,4 +16,7 @@ http://open.163.com/special/opencourse/multivariable.html
 http://www.bilibili.com/video/av6731067/
 
 
+# 2.机器学习算法
+## * 2.1 史上最直白的logistic regression教程
+http://blog.csdn.net/lizhe_dashuju/article/details/49864569
 
