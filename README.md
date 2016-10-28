@@ -10,7 +10,7 @@ MachineLearning_Notes  基础知识、实例教程存档，代码试验
 ## * 1.1麻省理工学院公开课：多变量微积分
 
 http://open.163.com/special/opencourse/multivariable.html
-[第9课] 极大极小问题，最小二乘法
+[第13课] 拉格朗日乘数法
 
 ## * 1.2【双字/合集】“线性代数的本质”系列合集
 http://www.bilibili.com/video/av6731067/
