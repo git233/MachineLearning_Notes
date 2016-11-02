@@ -10,7 +10,7 @@ MachineLearning_Notes  基础知识、实例教程存档，代码试验
 ## * 1.1麻省理工学院公开课：多变量微积分
 
 http://open.163.com/special/opencourse/multivariable.html
-[第14课]非独立变量
+[第21课]梯度场和势函数
 
 
 
